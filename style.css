@@ -1,0 +1,28 @@
+body {
+    font-family: "Marker Felt", "Comic Sans MS", fantasy;
+}
+.links {
+    background-color: #003366;
+    padding: 15px;
+    text-align: right;
+    font-size: 25px;
+}
+
+a:link, a:visited {
+    color: white;
+}
+
+h1 {
+    text-align: center;
+}
+
+p {
+    text-align:center;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
+  }
